@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BinaryVedaAssignment</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="collector">me as a collector</string>
+    <string name="my_app">track my application</string>
+    <string name="lorem">lorem ipsumis used</string>
+    <string name="content"> Content Copyright reserved.</string>
+    <string name="john"> john.doe</string>
+    <string name="dashboard">My dashboard</string>
+    <string name="lorem_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</string>
+</resources>
