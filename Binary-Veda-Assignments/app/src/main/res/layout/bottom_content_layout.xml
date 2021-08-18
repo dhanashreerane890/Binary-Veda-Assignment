@@ -7,7 +7,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="35dp"
+        android:layout_marginTop="50dp"
         android:gravity="center"
         android:orientation="horizontal">
 
@@ -46,26 +46,26 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="About Us."
-                android:padding="10dp"
                 android:layout_marginStart="25dp"
+                android:padding="10dp"
+                android:text="About Us."
                 android:textColor="@color/black"
                 android:textStyle="bold" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_marginStart="25dp"
                 android:padding="10dp"
                 android:text="Team."
-                android:layout_marginStart="25dp"
                 android:textColor="@color/black"
                 android:textStyle="bold" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:padding="10dp"
                 android:layout_marginStart="25dp"
+                android:padding="10dp"
                 android:text="Reach Us."
                 android:textColor="@color/black"
                 android:textStyle="bold" />
@@ -81,26 +81,26 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Affiliattions."
-                android:padding="10dp"
                 android:layout_marginStart="20dp"
+                android:padding="10dp"
+                android:text="Affiliattions."
                 android:textColor="@color/black"
                 android:textStyle="bold" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
                 android:padding="10dp"
                 android:text="Disclaimers. "
-                android:layout_marginStart="20dp"
                 android:textColor="@color/black"
                 android:textStyle="bold" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:padding="10dp"
                 android:layout_marginStart="20dp"
+                android:padding="10dp"
                 android:text="Privacy Policy."
                 android:textColor="@color/black"
                 android:textStyle="bold" />
@@ -113,13 +113,12 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:text="@string/content"
-        android:textColor="@color/black"
-        android:drawablePadding="10dp"
-android:paddingBottom="50dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp"
         android:drawableStart="@drawable/ic_invalidname"
-        android:textSize="22sp"
-        android:layout_marginTop="30dp"/>
+        android:drawablePadding="7dp"
+        android:paddingBottom="50dp"
+        android:text="@string/content"
+        android:textSize="20sp" />
 
 </LinearLayout>
